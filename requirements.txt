@@ -1,3 +1,5 @@
+ipywidgets
 jupyter
 matplotlib
-ipywidgets
+numpy
+
