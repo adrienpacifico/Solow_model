@@ -1,1 +1,2 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrienpacifico/Solow_model/master)
+* Resumé du modèle de Solow : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrienpacifico/Solow_model/master?filepath=%2FSolow_r%C3%A9sum%C3%A9.ipynb)
+* Le modèle de Solow avec des graphs interactifs et des solveurs d'exercices : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrienpacifico/Solow_model/master?filepath=%2FSolow_interactif.ipynb)
